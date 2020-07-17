@@ -58,8 +58,9 @@ void main(void)
 	printf(" y= %d\r\n",y);
 	printf(" z= %d\r\n",z);
 	
-	printf(" Test Git Hub \r\n");
+	printf(" Test Git Hub 0 \r\n");
 	printf(" Test Git Hub 1 \r\n");
+	printf(" Test Git Hub 2 \r\n");
 	
 	
 }
